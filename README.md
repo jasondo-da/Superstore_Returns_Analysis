@@ -1,5 +1,7 @@
 # Superstore Returns Analysis Report
 
+![image](https://github.com/jasondo-da/Superstore_Returns_Analysis/assets/138195365/7dee3b73-7e71-4d82-a66d-9494865e3360)
+
 ## Table of Contents
 
 - [Project Introduction](#project-introduction)
@@ -42,8 +44,6 @@ The CEO of Superstore is giving me the task of identifying which items are being
 - Displayed a scatterplot showing the correlation between total sales and total returns to see if there is a correlation between total sales and the number of returns
 
 - Compiled all of the findings into a dashboard for quick access to all the information 
-
-![image](https://github.com/jasondo-da/Superstore_Returns_Analysis/assets/138195365/7dee3b73-7e71-4d82-a66d-9494865e3360)
 
 ## Executive Summary
 
