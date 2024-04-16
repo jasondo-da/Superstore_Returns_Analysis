@@ -14,7 +14,7 @@
 
 ## Project Introduction
 
-In this project, I am preparing a report for the CEO of the Superstore to help them understand the reasons behind the increase in customer order returns and offer possible ideas on how to reduce the volume of returned orders.
+In this project, I am preparing a report for the CEO of the Superstore to help them understand the source and cause behind the increase in customer order returns and offer possible ideas on how to reduce the volume of returned orders.
 
 ### Superstore Returns Analysis
 Full Superstore Returns Analysis Tableau project link.
