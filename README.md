@@ -1,6 +1,7 @@
 # Superstore Returns Analysis Report
 
-![image](https://github.com/jasondo-da/Superstore_Returns_Analysis/assets/138195365/7dee3b73-7e71-4d82-a66d-9494865e3360)
+![image](https://github.com/jasondo-da/Superstore_Returns_Analysis/assets/138195365/a866e0ba-65fe-42d1-89f1-d11d02c1dc0e)
+
 
 ## Table of Contents
 
@@ -56,4 +57,6 @@ In conclusion, the "tables" and "bookcases" sub-categories should be audited for
 - West Coast stores show a significantly above-average number of returned orders and these stores should go through a logistics audit to see if there are any issues with the manufacturers and/or shipping methods and storage methods. 
 
 - Tables and bookcases are the top significant loss leaders out of all sub-categories and those two sub-categories should be audited along the supply chain to see if any issues are damaging these product lines or if it is a manufacturing issue
+
+![image](https://github.com/jasondo-da/Superstore_Returns_Analysis/assets/138195365/7dee3b73-7e71-4d82-a66d-9494865e3360)
 
