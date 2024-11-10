@@ -32,7 +32,8 @@ The CEO of Superstore is giving me the task of identifying which items are being
 
 - Built a heatmap showing the return rate state to find geographic concentrations of returned orders
 
-![image](https://github.com/jasondo-da/Superstore_Returns_Analysis/assets/138195365/d04c18b0-05df-4af6-a008-cc09a268c152)
+![image](https://github.com/user-attachments/assets/dbeb1470-dc6c-42dd-a223-fa577436e08a)
+
 
 - Created a bar chart showing the return rate by product category and sub-category and compared the profitability of each product sub-category to find which returns are the most financially damaging
 
@@ -58,5 +59,4 @@ In conclusion, the "tables" and "bookcases" sub-categories should be audited for
 
 - Tables and bookcases are the top significant loss leaders out of all sub-categories and those two sub-categories should be audited along the supply chain to see if any issues are damaging these product lines or if it is a manufacturing issue
 
-![image](https://github.com/jasondo-da/Superstore_Returns_Analysis/assets/138195365/7dee3b73-7e71-4d82-a66d-9494865e3360)
-
+![image](https://github.com/user-attachments/assets/5136333c-1c44-42b7-a687-06d5bff35a4c)
